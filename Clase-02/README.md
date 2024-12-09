@@ -14,3 +14,12 @@ git restore <nombre-archivo>
 git restore --staged <nombre-archivo> #Me recuepra los cambios marcados en el staging area al working directory
 
 ```
+
+## Modificación a modo de ejemplo. Prueba de comandos
+
+```sh
+git remote add origin https://github.com/antonelavec/73563-git.git 
+git branch -M main
+git push -u origin main
+
+```
