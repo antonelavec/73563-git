@@ -1,0 +1,18 @@
+[1mdiff --git a/Clase-02/README.md b/Clase-02/README.md[m
+[1mindex e69de29..2a76cf5 100644[m
+[1m--- a/Clase-02/README.md[m
+[1m+++ b/Clase-02/README.md[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32m#Clase 02 - Git Desarrollo Colaborativo[m
+[32m+[m
+[32m+[m[32m##Archivos del working Directory al Staging Area[m
+[32m+[m
+[32m+[m[32m# hACER UN COMMIT DE LOS QUE ESTÁ EN EL sTANGING aREA[m
+[32m+[m
+[32m+[m[32m```sh[m
+[32m+[m[32mgit commit #Se va a abrir un editor de texto para escribir el mensaje[m
+[32m+[m[32mgit commit -m "Escribo un mensaje descriptivo sobre lo que se hizo"[m
+[32m+[m[32m```[m
+[32m+[m[32m```sh[m
+[32m+[m[32mgit log[m
+[32m+[m[32m```[m
